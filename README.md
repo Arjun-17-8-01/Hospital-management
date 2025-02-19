@@ -1,8 +1,5 @@
 
 # Hospital Management
-![developer](https://img.shields.io/badge/Developed%20By%20%3A-Sumit%20Kumar-red)
----
-## screenshots
 ## Functions
 ### Admin
 - Signup their account. Then Login (No approval Required).
@@ -28,7 +25,7 @@
 ---
 
 ## HOW TO RUN THIS PROJECT
-- Install Python(3.7.6) (Dont Forget to Tick Add to Path while installing Python)
+- Install Python (Dont Forget to Tick Add to Path while installing Python)
 - Open Terminal and Execute Following Commands :
 ```
 pip install django==3.0.5
